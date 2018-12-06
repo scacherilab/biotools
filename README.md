@@ -1,4 +1,4 @@
-# genomicstools
+# biotools
 a collection of random bioinformatics scripts
 
 look_for_special_homopolymers_across_fasta.pl- Look for TGT+ or ACA+ homopolymers in FASTA files and report their locations

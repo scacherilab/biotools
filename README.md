@@ -10,5 +10,7 @@ retrieve_select_fields_from_VCF.pl- parse a VCF file (tested on version 4.2) and
 shannon_entropy_score.pl- compute Shannon entropy scores of a  data matrix. The data matrix has to be in the following tab-delimited format:
 
     chr start stop value1 value2 value3...
+ make_aggregate_tracks_from_coverage_files.py - create aggregate wig track based on median and mean signal from multiple wig tracks
+
 
 
